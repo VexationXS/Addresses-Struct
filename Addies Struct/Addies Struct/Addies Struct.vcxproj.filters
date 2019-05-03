@@ -14,175 +14,175 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
     <Filter Include="Source Files\Lua">
-      <UniqueIdentifier>{e1e527e6-8481-4401-bdca-d9a28cfd6a4e}</UniqueIdentifier>
+      <UniqueIdentifier>{8fa39b43-4ed2-40ca-8606-1cddd3e2b55a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Addresses.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\lapi.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\lauxlib.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\lcode.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\ldebug.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\ldo.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\lfunc.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\lgc.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\llex.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\llimits.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\lmem.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\lobject.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\lopcodes.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\lparser.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\lstate.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\lstring.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\ltable.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\ltm.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\lua.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\lua.hpp">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\luaconf.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\lualib.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\lundump.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\lvm.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Apollyon-Dll\Apollyon\Lua\lzio.h">
-      <Filter>Source Files\Lua</Filter>
-    </ClInclude>
     <ClInclude Include="RetCheck.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="Lua\lapi.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lauxlib.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lcode.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\ldebug.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\ldo.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lfunc.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lgc.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\llex.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\llimits.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lmem.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lobject.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lopcodes.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lparser.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lstate.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lstring.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\ltable.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\ltm.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lua.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lua.hpp">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\luaconf.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lualib.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lundump.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lvm.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="Lua\lzio.h">
+      <Filter>Source Files\Lua</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\lapi.c">
+    <ClCompile Include="Lua\lapi.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\lauxlib.c">
+    <ClCompile Include="Lua\lauxlib.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\lbaselib.c">
+    <ClCompile Include="Lua\lbaselib.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\lcode.c">
+    <ClCompile Include="Lua\lcode.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\ldblib.c">
+    <ClCompile Include="Lua\ldblib.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\ldebug.c">
+    <ClCompile Include="Lua\ldebug.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\ldo.c">
+    <ClCompile Include="Lua\ldo.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\ldump.c">
+    <ClCompile Include="Lua\ldump.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\lfunc.c">
+    <ClCompile Include="Lua\lfunc.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\lgc.c">
+    <ClCompile Include="Lua\lgc.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\linit.c">
+    <ClCompile Include="Lua\linit.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\liolib.c">
+    <ClCompile Include="Lua\liolib.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\llex.c">
+    <ClCompile Include="Lua\llex.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\lmathlib.c">
+    <ClCompile Include="Lua\lmathlib.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\lmem.c">
+    <ClCompile Include="Lua\lmem.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\loadlib.c">
+    <ClCompile Include="Lua\loadlib.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\lobject.c">
+    <ClCompile Include="Lua\lobject.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\lopcodes.c">
+    <ClCompile Include="Lua\lopcodes.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\loslib.c">
+    <ClCompile Include="Lua\loslib.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\lparser.c">
+    <ClCompile Include="Lua\lparser.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\lstate.c">
+    <ClCompile Include="Lua\lstate.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\lstring.c">
+    <ClCompile Include="Lua\lstring.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\lstrlib.c">
+    <ClCompile Include="Lua\lstrlib.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\ltable.c">
+    <ClCompile Include="Lua\ltable.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\ltablib.c">
+    <ClCompile Include="Lua\ltablib.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\ltm.c">
+    <ClCompile Include="Lua\ltm.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\lundump.c">
+    <ClCompile Include="Lua\lundump.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\lvm.c">
+    <ClCompile Include="Lua\lvm.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Apollyon-Dll\Apollyon\Lua\lzio.c">
+    <ClCompile Include="Lua\lzio.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
   </ItemGroup>
